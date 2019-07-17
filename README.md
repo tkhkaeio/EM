@@ -3,7 +3,7 @@
 please see a implementation in GMM.ipynb
 
 
-|model| num of gauss dist. | conv type | params|end epoch \\(thresh=1e-3)|log_likelihood|BIC |
+|model| num of gauss dist. | conv type | params|end epoch \(thresh=1e-3)|log_likelihood|BIC |
 |:---:|:---:    |:---:     |:---:  |:---:                 |:---:         |:---:|   
 |K1_diag0| 1 | full | 5|2|-7699.809|15435.840|
 |K1_diag1| 1 | diag | 4|2|-9274.189|18577.356|
